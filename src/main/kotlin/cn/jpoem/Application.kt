@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2021. JPoem Project.
+ */
+
 package cn.jpoem
 
 import io.micronaut.runtime.Micronaut.*
